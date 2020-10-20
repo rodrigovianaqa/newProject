@@ -19,3 +19,4 @@ import internal.GlobalVariable as GlobalVariable
 //example 2
 
 //example3
+//example4
